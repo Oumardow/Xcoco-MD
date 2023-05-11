@@ -14,16 +14,16 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['+223 50128326'] //ur owner number
-global.ownername = "𝕄𝕆𝕄𝕆𝕊ℍ𝕀𝕂𝕀 𝕆𝕋𝕊𝕌𝕋𝕊𝕌𝕂𝕀" //ur owner name
-global.ytname = " 𝕄𝕆𝕄𝕆𝕊ℍ𝕀𝕂𝕀 𝕆𝕋𝕊𝕌𝕋𝕊𝕌𝕂𝕀" //ur yt chanel name
+global.owner = ['+223 72 26 81 34'] //ur owner number
+global.ownername = "༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆" //ur owner name
+global.ytname = " ༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆" //ur yt chanel name
 global.socialm = "GitHub: sandaru07" //ur github or insta name
 global.location = "asia, colombo, Aizawl" //ur location
 
 //bot bomdy 
-global.ownernomer = "+223 50128326" //ur number
-global.premium = ['+223 50128326'] //ur premium number
-global.botname = '𝕄𝕆𝕄𝕆𝕊ℍ𝕀𝕂𝕀 𝕆𝕋𝕊𝕌𝕋𝕊𝕌𝕂𝕀' //ur bot name
+global.ownernomer = "+223 72 26 81 34" //ur number
+global.premium = ['+223 72 26 81 34'] //ur premium number
+global.botname = '༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/sandaru07/' //script link
